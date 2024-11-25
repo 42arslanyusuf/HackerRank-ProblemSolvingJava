@@ -1,4 +1,4 @@
-package Warpup._001_CompareTheTriplets;
+package Warmup._001_CompareTheTriplets;
 
 import java.util.ArrayList;
 import java.util.List;
