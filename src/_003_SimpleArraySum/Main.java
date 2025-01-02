@@ -1,4 +1,4 @@
-package Warmup._003_SimpleArraySum;
+package _003_SimpleArraySum;
 
 import java.util.List;
 

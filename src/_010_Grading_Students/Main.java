@@ -1,4 +1,4 @@
-package Warmup._010_Grading_Students;
+package _010_Grading_Students;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Warmup._009_BirthdayCakeCandles;
+package _009_BirthdayCakeCandles;
 
 import java.util.Collections;
 import java.util.List;

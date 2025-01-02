@@ -1,4 +1,4 @@
-package Warmup._005_DiagonalDifference;
+package _005_DiagonalDifference;
 
 import java.util.List;
 

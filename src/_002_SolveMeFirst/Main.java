@@ -1,4 +1,4 @@
-package Warmup._002_SolveMeFirst;
+package _002_SolveMeFirst;
 
 import java.util.Scanner;
 

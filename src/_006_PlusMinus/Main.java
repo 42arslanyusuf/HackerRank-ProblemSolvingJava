@@ -1,4 +1,4 @@
-package Warmup._006_PlusMinus;
+package _006_PlusMinus;
 
 import java.util.List;
 

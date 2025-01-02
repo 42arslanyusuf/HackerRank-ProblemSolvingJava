@@ -1,4 +1,4 @@
-package Warmup._007_Staircase;
+package _007_Staircase;
 
 public class Main {
     public static void main(String[] args) {

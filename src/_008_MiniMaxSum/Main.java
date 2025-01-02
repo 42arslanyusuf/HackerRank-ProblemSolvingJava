@@ -1,4 +1,4 @@
-package Warmup._008_MiniMaxSum;
+package _008_MiniMaxSum;
 
 import java.util.Collections;
 import java.util.List;
