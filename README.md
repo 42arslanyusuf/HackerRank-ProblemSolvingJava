@@ -13,3 +13,8 @@
 13. [AngryProfessor](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_013_AngryProfessor)
 14. [BeautifulDaysAtTheMovies](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_014_BeautifulDaysAtTheMovies)
 15. [FindDigits](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_015_FindDigits)
+16. [SherlockAndSquares](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_016_SherlockAndSquares)
+17. [LibraryFine](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_017_LibraryFine)
+18. [BillDivision](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_018_BillDivision)
+19. [TimeConversion](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_019_TimeConversion)
+20. [DrawingBook](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_020_DrawingBook)
