@@ -18,3 +18,8 @@
 18. [BillDivision](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_018_BillDivision)
 19. [TimeConversion](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_019_TimeConversion)
 20. [DrawingBook](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_020_DrawingBook)
+21. [ElectronicsShop](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_021_ElectronicsShop)
+22. [CaesarCipher](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_022_CaesarCipher)
+23. [MarsExploration](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_023_MarsExploration)
+24. [AlternatingCharacters](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_024_AlternatingCharacters)
+25. [CamelCase](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_025_CamelCase)
