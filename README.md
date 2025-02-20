@@ -23,3 +23,8 @@
 23. [MarsExploration](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_023_MarsExploration)
 24. [AlternatingCharacters](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_024_AlternatingCharacters)
 25. [CamelCase](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_025_CamelCase)
+26. [Pangrams](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_026_Pangrams)
+27. [UtopianTree](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_027_UtopianTree)
+28. [CircularArrayRotation](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_028_CircularArrayRotation)
+29. [DivisibleSumPairs](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_029_DivisibleSumPairs)
+30. [FunnyString](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_030_FunnyString)
