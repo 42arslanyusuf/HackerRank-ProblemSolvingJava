@@ -28,3 +28,4 @@
 28. [CircularArrayRotation](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_028_CircularArrayRotation)
 29. [DivisibleSumPairs](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_029_DivisibleSumPairs)
 30. [FunnyString](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_030_FunnyString)
+31. [ExtraLongFactorials](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_031_ExtraLongFactorials)
