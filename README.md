@@ -30,3 +30,5 @@
 30. [FunnyString](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_030_FunnyString)
 31. [ExtraLongFactorials](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_031_ExtraLongFactorials)
 32. [IntroToTutorialChallenges](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_032_IntroToTutorialChallenges)
+33. [TheHurdleRace](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_033_TheHurdleRace)
+34. [CatsAndAMouse](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_034_CatsAndAMouse)
