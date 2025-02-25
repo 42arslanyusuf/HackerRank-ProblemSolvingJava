@@ -32,3 +32,5 @@
 32. [IntroToTutorialChallenges](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_032_IntroToTutorialChallenges)
 33. [TheHurdleRace](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_033_TheHurdleRace)
 34. [CatsAndAMouse](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_034_CatsAndAMouse)
+35. [StringConstruction](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_035_StringConstruction)
+36. [NumberLineJumps](https://github.com/42arslanyusuf/HackerRank-ProblemSolvingJava/tree/main/src/_036_NumberLineJumps)
